@@ -1,0 +1,11 @@
+E:\Mine\Project\Training\React JS\Books\ViewModels\bin\Debug\net8.0\ViewModels.deps.json
+E:\Mine\Project\Training\React JS\Books\ViewModels\bin\Debug\net8.0\ViewModels.dll
+E:\Mine\Project\Training\React JS\Books\ViewModels\bin\Debug\net8.0\ViewModels.pdb
+E:\Mine\Project\Training\React JS\Books\ViewModels\obj\Debug\net8.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mine\Project\Training\React JS\Books\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfoInputs.cache
+E:\Mine\Project\Training\React JS\Books\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfo.cs
+E:\Mine\Project\Training\React JS\Books\ViewModels\obj\Debug\net8.0\ViewModels.csproj.CoreCompileInputs.cache
+E:\Mine\Project\Training\React JS\Books\ViewModels\obj\Debug\net8.0\ViewModels.dll
+E:\Mine\Project\Training\React JS\Books\ViewModels\obj\Debug\net8.0\refint\ViewModels.dll
+E:\Mine\Project\Training\React JS\Books\ViewModels\obj\Debug\net8.0\ViewModels.pdb
+E:\Mine\Project\Training\React JS\Books\ViewModels\obj\Debug\net8.0\ref\ViewModels.dll

@@ -1,0 +1,35 @@
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\bin\Debug\net8.0\Utilities.deps.json
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\bin\Debug\net8.0\Utilities.dll
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\bin\Debug\net8.0\Utilities.pdb
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.dll
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.pdb
+E:\My Files\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\bin\Debug\net8.0\Utilities.deps.json
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\bin\Debug\net8.0\Utilities.dll
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\bin\Debug\net8.0\Utilities.pdb
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.dll
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\Utilities.pdb
+E:\Mine\Project\Training\Blazor\Goodratmandan\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+E:\Mine\Project\Training\React JS\Books\Utilities\bin\Debug\net8.0\Utilities.deps.json
+E:\Mine\Project\Training\React JS\Books\Utilities\bin\Debug\net8.0\Utilities.dll
+E:\Mine\Project\Training\React JS\Books\Utilities\bin\Debug\net8.0\Utilities.pdb
+E:\Mine\Project\Training\React JS\Books\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mine\Project\Training\React JS\Books\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+E:\Mine\Project\Training\React JS\Books\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+E:\Mine\Project\Training\React JS\Books\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+E:\Mine\Project\Training\React JS\Books\Utilities\obj\Debug\net8.0\Utilities.dll
+E:\Mine\Project\Training\React JS\Books\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+E:\Mine\Project\Training\React JS\Books\Utilities\obj\Debug\net8.0\Utilities.pdb
+E:\Mine\Project\Training\React JS\Books\Utilities\obj\Debug\net8.0\ref\Utilities.dll

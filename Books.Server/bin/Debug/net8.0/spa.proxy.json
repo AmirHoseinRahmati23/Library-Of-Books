@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\Mine\\Project\\Training\\React JS\\Books\\Books.Server\\..\\books.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

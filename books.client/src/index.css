@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    direction: rtl;
+    font-family: Vazir;
+    @apply bg-slate-50 text-slate-950;
+}
+main{
+    @apply py-3 px-4 md:py-8 md:px-16;
+}
+.slider{
+    box-shadow: 0px 0px 10px rgb(32, 32, 32);
+    border-radius: 25px;
+}
+.card{
+    box-shadow: 0px 0px 10px rgb(32, 32, 32);
+    @apply flex flex-col rounded-xl overflow-hidden;
+}
+.card img{
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+#book > div{
+    box-shadow: 0px 0px 10px black;
+    @apply p-10 rounded-md;
+}
+#book img{
+    box-shadow: 0px 0px 10px black;
+}
+#manage table{
+    @apply w-full flex flex-col gap-1;
+}
+#manage thead, #manage tbody{
+    @apply w-full flex flex-col gap-1;
+}
+#manage tr{
+    @apply w-full flex;
+    border-bottom: 1px solid black;
+}
+#manage td, #manage th{
+    @apply flex-1 p-2;
+    border-left: 1px solid black;
+}
+
+#manage input, #manage textarea{
+    @apply p-2 rounded-sm mb-1;
+}
